@@ -14,7 +14,7 @@ namasteBtn.addEventListener('click', showMsg);
 
 function showMsg(){
     alert("Hello Mrs. Dev Rathore");
-}
+} 
 
 
 /* This is a On-CLick & ALert Function  */
